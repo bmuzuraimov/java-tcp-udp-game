@@ -1,0 +1,8 @@
+.classpath
+.project
+.idea
+project_cleint.iml
+project_server.iml
+*.iml
+*.ipr
+*.class
